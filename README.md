@@ -8,3 +8,8 @@ Batteries included!
 - lcov
 - cpputest (built from source)
 
+## To build the docker image
+
+```
+# ./build-docker.sh
+```
